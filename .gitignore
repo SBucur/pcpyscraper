@@ -1,0 +1,4 @@
+# ignore python bytecode files
+*.pyc
+.pytest_cache
+__pycache__
